@@ -14,16 +14,7 @@ Trang tổng hợp các ứng dụng web của **Nguyễn Ngọc Bình** – cá
 | 🐦 | **Flappy English** | Học từ vựng nâng cao qua game Flappy Bird: 200+ từ IELTS/TOEFL, luyện nghe, Speed Quiz, Dictation | [Truy cập](https://funenglishkids.github.io/FlappyEnglish) |
 | 🔮 | **Tử Vi Vui Vẻ** | Xem lá số Tử Vi online: Lập lá số 12 cung, luận giải, vận hạn, tương hợp, tra cứu sao | [Truy cập](https://funenglishkids.github.io/tuvi) |
 
-## 🛠️ Công nghệ
-
-- **HTML5** – Semantic markup
-- **CSS3** – Grid, Flexbox, animations
-- **Vanilla JavaScript** – Không framework
-- **Web Speech API** – Phát âm & nhận diện giọng nói
-- **GitHub Pages** – Hosting miễn phí
-- **Responsive Design** – Tương thích mọi thiết bị
-
-## 📁 Cấu trúc
+##  Cấu trúc
 
 ```
 funenglishkids.github.io/
@@ -41,6 +32,16 @@ funenglishkids.github.io/
    ```
 2. Mở `index.html` trong trình duyệt
 3. Không cần build, không cần server!
+
+## ☕ Ủng hộ tác giả
+
+Nếu bạn thấy các ứng dụng hữu ích, hãy mời tác giả một ly cà phê nhé!
+
+| 🏦 Ngân hàng | 💳 Số tài khoản | 👤 Chủ TK |
+|---|---|---|
+| TPBank (Tiên Phong) | **66686686666** | Nguyễn Ngọc Bình |
+
+Mọi đóng góp đều là nguồn động lực to lớn! Cảm ơn bạn 🙏
 
 ## 📄 License
 
