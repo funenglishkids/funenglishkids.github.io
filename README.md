@@ -31,7 +31,7 @@ funenglishkids.github.io/
    git clone https://github.com/funenglishkids/funenglishkids.github.io.git
    ```
 2. Mở `index.html` trong trình duyệt
-3. Không cần build, không cần server!
+3. Không cần build, không cần server
 
 ## ☕ Ủng hộ tác giả
 
